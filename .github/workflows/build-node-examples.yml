@@ -1,6 +1,6 @@
 name: build node examples from source
 
-on: pull_request
+on: push
 
 jobs:
   node:
